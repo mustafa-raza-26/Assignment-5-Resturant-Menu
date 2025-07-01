@@ -1,4 +1,4 @@
-alert('Welcome To Our Resturant')
+alert('Welcome To MR Resturant')
 let userChoise = +prompt(' 1 Biryani \n 2 Pizza \n 3 Burger \n 4 BBQ')
 
 // Biryani
